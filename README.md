@@ -1,2 +1,2 @@
 # LEGS-GO-TRAVEL-AGENCY-APP-
-This is a simple travel management app .It is tie up with the best cab travels and hotels from which one can book their cab and hotels according to their facilities .you can also download receipt from file path.
+This is a simple travel management app .It can tie up with the best cab travels and hotels from which one can book their cab and hotels according to their facilities.Like this one can book their journey and travel around the world .you can also download bill along with date and time from file path.Thank you happy journey ...
